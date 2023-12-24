@@ -1,0 +1,95 @@
+
+{
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #000000;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #5a7081;
+}
+
+
+
+/*dropnav*/
+
+.hero{
+  height: 300%;
+  width: 100%;
+  background-image:  linear-gradient(rgba(0,0,0,0.0),rgba(0,0,0,0.1)),url(himj.jpg);
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  background-color:red;
+   
+}
+
+
+
+
+h1 {
+  text-align: left; 
+  color:white;
+  margin-left:30px;
+  font-size:40px;
+}
+
+h2 {
+  text-align: left; 
+  font-size:20px;
+	background-color:#E3E3E3;
+	width:550px;
+	padding:20px;
+	margin-left:30px;
+	border:5px brown solid;
+	border-radius:20px;
+	font-family: 'Oleo Script Swash Caps', cursive;	
+}
+
+h8{
+	text-align: left; 
+  color:brown;
+  font-size:40px;
+	
+}
+	
+
+
+	.first-section {
+			color:black;
+			background-color:#E3E3E3;
+			width:700px;
+			padding:50px;
+			margin-left:30px;
+			border:5px brown solid;
+			border-radius:20px;
+			font-family: 'Oleo Script Swash Caps', cursive;
+			}
+
+	
+			
+
+
+
+footer {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+  color: rgb(16, 15, 15);
+}
